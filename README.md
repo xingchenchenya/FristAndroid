@@ -1,2 +1,3 @@
 # FristAndroid
- level2.5 maybe~
+ level2.5 maybe...
+因为没写出来SharePreferences的部分
